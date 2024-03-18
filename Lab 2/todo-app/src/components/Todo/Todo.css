@@ -1,0 +1,22 @@
+.todo-container {
+    border: 1px solid #3178c6;
+    border-radius: 5px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.todo-text {
+    display: inline-block;
+    max-width: 80%;
+    margin-right: 50px;
+}
+
+.todo-btn {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
