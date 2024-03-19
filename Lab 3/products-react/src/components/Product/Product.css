@@ -1,0 +1,8 @@
+.prod-card {
+    cursor: pointer;
+}
+
+.prod-img {
+    height: 220px;
+    border-radius: 50% !important;
+}
