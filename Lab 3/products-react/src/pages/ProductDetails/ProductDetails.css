@@ -5,3 +5,13 @@
 .sub-img {
     max-height: 250px;
 }
+
+.prod-link {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+
+    &:hover {
+        color: gray;
+    }
+}
